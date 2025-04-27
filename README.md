@@ -16,6 +16,5 @@ Les culottes menstruelles sont une alternative écologique et confortable aux pr
 
 # Bienvenue sur Coco Intime
 
-Voici nos packs : [Pack de 5]
 
 
