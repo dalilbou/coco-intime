@@ -1,7 +1,6 @@
-cd coco-intime
-mkdir articles
-touch articles/article1.md
-code articles/article1.md
+cd COCO intime 
+
+
 # Les Bienfaits des Culottes Menstruelles
 Les culottes menstruelles sont une alternative écologique et confortable aux protections hygiéniques classiques. Elles sont réutilisables et offrent un excellent confort...
 ## Pourquoi choisir une culotte menstruelle ?
