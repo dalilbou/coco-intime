@@ -16,7 +16,8 @@ Les culottes menstruelles sont une alternative écologique et confortable aux pr
 
 # Bienvenue sur Coco Intime
 
-Voici notre premier article : [Les Bienfaits des Culottes Menstruelles](articles/article1.md)
-<h1>Bienvenue sur Coco Intime</h1>
+Voici nos packs : 
+(articles/article1.md)
+
 <p>Voici notre premier article : <a href="articles/article1.html">Les Bienfaits des Culottes Menstruelles</a></p>
 
