@@ -14,9 +14,7 @@ Les culottes menstruelles sont une alternative écologique et confortable aux pr
 - **Écologique** : Réduit l'usage des protections jetables.
 - **Économique** : Un investissement à long terme.
 - **Confort** : Plus de fuites ou d'irritations.
-<h1>Les Bienfaits des Culottes Menstruelles</h1>
-<p>Les culottes menstruelles sont une alternative écologique et confortable...</p>
-<h1>Les Bienfaits des Culottes Menstruelles</h1>
+
 <p>Les culottes menstruelles sont une alternative écologique et confortable...</p>
 git add articles/article1.md
 git commit -m "Ajout de l'article sur les bienfaits des culottes menstruelles"
